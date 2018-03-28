@@ -1,0 +1,13 @@
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\bin\Release\HPADevTest.exe.config
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\bin\Release\HPADevTest.exe
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\bin\Release\HPADevTest.pdb
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\bin\Release\WebDriver.dll
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\bin\Release\WebDriver.xml
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\obj\Release\HPADevTest.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\obj\Release\HPADevTest.csproj.CopyComplete
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\obj\Release\HPADevTest.exe
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\obj\Release\HPADevTest.pdb
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\bin\Release\HPADevTest.exe.manifest
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\bin\Release\HPADevTest.application
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\obj\Release\HPADevTest.exe.manifest
+C:\Users\Chris\source\repos\HPADevTest\HPADevTest\obj\Release\HPADevTest.application
