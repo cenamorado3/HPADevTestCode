@@ -11,18 +11,18 @@ namespace HPADevTest
         static void Main(string[] args)
         {
 
-            var devTest = new HPA();
+            var test = new HPA();
 
-            devTest.stepOne();
-            devTest.stepTwo();
-            devTest.stepThree();
-            devTest.stepFour();
-            devTest.stepFive();
-            devTest.stepSix();
-            devTest.OverloadStep(7);
-            devTest.OverloadStep(8);
-            devTest.OverloadStep(9);
-            devTest.OverloadStep(10);
+            test.stepOne();
+            test.stepTwo();
+            test.stepThree();
+            test.stepFour();
+            test.stepFive();
+            test.stepSix();
+            test.OverloadStep(7);
+            test.OverloadStep(8);
+            test.OverloadStep(9);
+            test.OverloadStep(10);
         }
     }
 }
